@@ -10785,7 +10785,6 @@ iconfactory.net
 iconpaper.org
 icons8.com
 icu-project.org
-icu000webhost.com
 icuminside.com
 id.au
 idaiwan.com
@@ -12563,6 +12562,7 @@ lbtube.com
 lbyczf.com
 lcgirls.com
 lcsmerch.com
+ldplayer.tw
 le-direct.tv
 le-vpn.com
 leafyvpn.net

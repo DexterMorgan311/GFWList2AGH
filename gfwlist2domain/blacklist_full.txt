@@ -3306,6 +3306,7 @@ bbs.kimy.com.tw
 bbs.mikocon.com
 bbs.morbell.com
 bbs.mychat.to
+bbs.naixi.net
 bbs.netbig.com
 bbs.nyinfor.com
 bbs.ozchinese.com
@@ -14548,7 +14549,6 @@ icsd.fiz-karlsruhe.de
 icsl.ac.uk
 ictheatre.ac.uk
 icu-project.org
-icu000webhost.com
 icuminside.com
 id.au
 id.hao123.com
@@ -16839,6 +16839,7 @@ lcuck.ac.uk
 lcwc.ac.uk
 ld.hao123img.com
 ldoc-cdt.ac.uk
+ldplayer.tw
 le-direct.tv
 le-vpn.com
 le.ac.uk
@@ -31501,7 +31502,6 @@ xmovies.com
 xmoviesforyou.com
 xn--096-4g6em5t.com
 xn--11xs86f.icu
-xn--11xs86f.icu000webhost.com
 xn--201-4g6em5t.com
 xn--202-4g6em5t.com
 xn--203-4g6em5t.com
